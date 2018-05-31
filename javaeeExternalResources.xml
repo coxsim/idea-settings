@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.springframework.org/schema/c" location="C:/src/reporting-web/reporting-web-application" />
+  </component>
+</application>

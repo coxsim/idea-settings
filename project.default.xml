@@ -1,0 +1,108 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="C:/src/TradeMatchFeeds" value="PREVIEW" />
+            <entry key="C:/src/gogcommon" value="PREVIEW" />
+            <entry key="C:/src/mr-quotes" value="PREVIEW" />
+            <entry key="C:/src/pure-integration/pure-ts/pure-ts-application" value="PREVIEW" />
+            <entry key="C:/src/pure-ts/pure-ts-application" value="PREVIEW" />
+            <entry key="C:/src/sola-basket-importer" value="PREVIEW" />
+            <entry key="C:/src/sophis-batch" value="PREVIEW" />
+            <entry key="C:/src/sophis-batch/sophis-batch-application" value="PREVIEW" />
+            <entry key="C:/src/stock-ticker/stock-ticker-application" value="PREVIEW" />
+            <entry key="C:/src/temp/reporting-web" value="PREVIEW" />
+            <entry key="C:/src/trunk/Blotter" value="PREVIEW" />
+            <entry key="C:/src/trunk/GogCommon" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ProjectCodeStyleConfiguration">
+        <code_scheme name="Project" version="173">
+          <DBN-PSQL>
+            <case-options enabled="false">
+              <option name="KEYWORD_CASE" value="lower" />
+              <option name="FUNCTION_CASE" value="lower" />
+              <option name="PARAMETER_CASE" value="lower" />
+              <option name="DATATYPE_CASE" value="lower" />
+              <option name="OBJECT_CASE" value="preserve" />
+            </case-options>
+            <formatting-settings enabled="false" />
+          </DBN-PSQL>
+          <DBN-SQL>
+            <case-options enabled="false">
+              <option name="KEYWORD_CASE" value="lower" />
+              <option name="FUNCTION_CASE" value="lower" />
+              <option name="PARAMETER_CASE" value="lower" />
+              <option name="DATATYPE_CASE" value="lower" />
+              <option name="OBJECT_CASE" value="preserve" />
+            </case-options>
+            <formatting-settings enabled="false">
+              <option name="STATEMENT_SPACING" value="one_line" />
+              <option name="CLAUSE_CHOP_DOWN" value="chop_down_if_statement_long" />
+              <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
+            </formatting-settings>
+          </DBN-SQL>
+        </code_scheme>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="C:/src" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="SvnConfiguration">
+        <configuration useDefault="false">C:\Users\SCox\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
