@@ -23,7 +23,7 @@
         <observation name="false" value="21.0" />
       </dailyData>
       <dailyData date="4-6-2018">
-        <observation name="false" value="3.0" />
+        <observation name="false" value="5.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:liftShorterClasses">
@@ -54,6 +54,7 @@
         <observation name="false" value="21.0" />
       </dailyData>
       <dailyData date="4-6-2018">
+        <observation name="UNDEFINED" value="2.0" />
         <observation name="false" value="3.0" />
       </dailyData>
     </factor>
@@ -85,7 +86,7 @@
         <observation name="false" value="21.0" />
       </dailyData>
       <dailyData date="4-6-2018">
-        <observation name="false" value="3.0" />
+        <observation name="false" value="5.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:nonGeneric">
@@ -121,6 +122,7 @@
       </dailyData>
       <dailyData date="4-6-2018">
         <observation name="0" value="3.0" />
+        <observation name="UNDEFINED" value="2.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_inResolveScope">
@@ -158,6 +160,7 @@
         <observation name="true" value="9.0" />
       </dailyData>
       <dailyData date="4-6-2018">
+        <observation name="UNDEFINED" value="2.0" />
         <observation name="true" value="3.0" />
       </dailyData>
     </factor>
@@ -196,6 +199,7 @@
         <observation name="true" value="2.0" />
       </dailyData>
       <dailyData date="4-6-2018">
+        <observation name="UNDEFINED" value="2.0" />
         <observation name="false" value="3.0" />
       </dailyData>
     </factor>
@@ -234,6 +238,7 @@
         <observation name="true" value="2.0" />
       </dailyData>
       <dailyData date="4-6-2018">
+        <observation name="UNDEFINED" value="2.0" />
         <observation name="false" value="3.0" />
       </dailyData>
     </factor>
@@ -272,6 +277,7 @@
         <observation name="true" value="2.0" />
       </dailyData>
       <dailyData date="4-6-2018">
+        <observation name="UNDEFINED" value="2.0" />
         <observation name="false" value="3.0" />
       </dailyData>
     </factor>
@@ -310,6 +316,7 @@
         <observation name="true" value="1.0" />
       </dailyData>
       <dailyData date="4-6-2018">
+        <observation name="UNDEFINED" value="2.0" />
         <observation name="false" value="2.0" />
         <observation name="true" value="1.0" />
       </dailyData>
@@ -339,7 +346,7 @@
         <observation name="false" value="21.0" />
       </dailyData>
       <dailyData date="4-6-2018">
-        <observation name="false" value="3.0" />
+        <observation name="false" value="5.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:accessible">
@@ -373,6 +380,7 @@
       </dailyData>
       <dailyData date="4-6-2018">
         <observation name="NORMAL" value="3.0" />
+        <observation name="UNDEFINED" value="2.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:expectedType">
@@ -421,6 +429,7 @@
         <observation name="normal" value="13.0" />
       </dailyData>
       <dailyData date="4-6-2018">
+        <observation name="UNDEFINED" value="2.0" />
         <observation name="normal" value="3.0" />
       </dailyData>
     </factor>
@@ -490,6 +499,7 @@
         <observation name="probableKeyword" value="5.0" />
       </dailyData>
       <dailyData date="4-6-2018">
+        <observation name="UNDEFINED" value="2.0" />
         <observation name="classNameOrGlobalStatic" value="2.0" />
         <observation name="normal" value="1.0" />
       </dailyData>
@@ -522,6 +532,7 @@
         <observation name="unknown" value="21.0" />
       </dailyData>
       <dailyData date="4-6-2018">
+        <observation name="UNDEFINED" value="2.0" />
         <observation name="unknown" value="3.0" />
       </dailyData>
     </factor>
@@ -563,6 +574,7 @@
         <observation name="null" value="18.0" />
       </dailyData>
       <dailyData date="4-6-2018">
+        <observation name="UNDEFINED" value="2.0" />
         <observation name="false" value="2.0" />
         <observation name="null" value="1.0" />
       </dailyData>
@@ -597,6 +609,7 @@
         <observation name="unknown" value="21.0" />
       </dailyData>
       <dailyData date="4-6-2018">
+        <observation name="UNDEFINED" value="2.0" />
         <observation name="unknown" value="3.0" />
       </dailyData>
     </factor>
@@ -635,6 +648,7 @@
         <observation name="normal" value="15.0" />
       </dailyData>
       <dailyData date="4-6-2018">
+        <observation name="UNDEFINED" value="2.0" />
         <observation name="normal" value="3.0" />
       </dailyData>
     </factor>
@@ -675,8 +689,9 @@
         <observation name="typedSelect" value="17.0" />
       </dailyData>
       <dailyData date="4-6-2018">
-        <observation name="cancelled" value="179.0" />
+        <observation name="cancelled" value="203.0" />
         <observation name="explicitSelect" value="3.0" />
+        <observation name="typedSelect" value="2.0" />
       </dailyData>
     </factor>
     <factor id="completionType">
@@ -702,7 +717,7 @@
         <observation name="BASIC" value="30.0" />
       </dailyData>
       <dailyData date="4-6-2018">
-        <observation name="BASIC" value="3.0" />
+        <observation name="BASIC" value="6.0" />
       </dailyData>
     </factor>
     <factor id="completionUsage">
@@ -728,7 +743,7 @@
         <observation name="count" value="232.0" />
       </dailyData>
       <dailyData date="4-6-2018">
-        <observation name="count" value="182.0" />
+        <observation name="count" value="208.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
@@ -782,11 +797,11 @@
         <observation name="variance" value="0.109793" />
       </dailyData>
       <dailyData date="4-6-2018">
-        <observation name="average" value="0.4" />
-        <observation name="count" value="5.0" />
+        <observation name="average" value="0.222222" />
+        <observation name="count" value="9.0" />
         <observation name="max" value="1.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="0.09" />
+        <observation name="variance" value="0.086838" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:grouping">
@@ -841,7 +856,7 @@
       </dailyData>
       <dailyData date="4-6-2018">
         <observation name="average" value="0.0" />
-        <observation name="count" value="5.0" />
+        <observation name="count" value="9.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -905,7 +920,7 @@
         <observation name="variance" value="599.206078" />
       </dailyData>
       <dailyData date="4-6-2018">
-        <observation name="UNDEFINED" value="2.0" />
+        <observation name="UNDEFINED" value="4.0" />
         <observation name="average" value="-26.0" />
         <observation name="count" value="1.0" />
         <observation name="max" value="-26.0" />
@@ -969,6 +984,7 @@
         <observation name="variance" value="0.047675" />
       </dailyData>
       <dailyData date="4-6-2018">
+        <observation name="UNDEFINED" value="2.0" />
         <observation name="average" value="0.0" />
         <observation name="count" value="5.0" />
         <observation name="max" value="0.0" />
@@ -1027,11 +1043,11 @@
         <observation name="variance" value="0.047827" />
       </dailyData>
       <dailyData date="4-6-2018">
-        <observation name="average" value="0.4" />
-        <observation name="count" value="5.0" />
+        <observation name="average" value="0.222222" />
+        <observation name="count" value="9.0" />
         <observation name="max" value="2.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="0.217778" />
+        <observation name="variance" value="0.184192" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prefix">
@@ -1085,11 +1101,11 @@
         <observation name="variance" value="62923.737855" />
       </dailyData>
       <dailyData date="4-6-2018">
-        <observation name="average" value="-1092.4" />
-        <observation name="count" value="5.0" />
+        <observation name="average" value="-1130.444444" />
+        <observation name="count" value="9.0" />
         <observation name="max" value="-1052.0" />
-        <observation name="min" value="-1152.0" />
-        <observation name="variance" value="888.084444" />
+        <observation name="min" value="-1203.0" />
+        <observation name="variance" value="1612.252579" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:priority">
@@ -1143,11 +1159,11 @@
         <observation name="variance" value="0.0" />
       </dailyData>
       <dailyData date="4-6-2018">
-        <observation name="average" value="0.0" />
-        <observation name="count" value="5.0" />
-        <observation name="max" value="0.0" />
+        <observation name="average" value="2.222222" />
+        <observation name="count" value="9.0" />
+        <observation name="max" value="5.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="0.0" />
+        <observation name="variance" value="2.854151" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_explicitlyImported">
@@ -1206,6 +1222,7 @@
         <observation name="variance" value="4534.80432" />
       </dailyData>
       <dailyData date="4-6-2018">
+        <observation name="UNDEFINED" value="2.0" />
         <observation name="average" value="0.0" />
         <observation name="count" value="5.0" />
         <observation name="max" value="0.0" />
@@ -1269,6 +1286,7 @@
         <observation name="variance" value="2.34354" />
       </dailyData>
       <dailyData date="4-6-2018">
+        <observation name="UNDEFINED" value="2.0" />
         <observation name="average" value="0.8" />
         <observation name="count" value="5.0" />
         <observation name="max" value="4.0" />
@@ -1332,6 +1350,7 @@
         <observation name="variance" value="0.202408" />
       </dailyData>
       <dailyData date="4-6-2018">
+        <observation name="UNDEFINED" value="2.0" />
         <observation name="average" value="0.0" />
         <observation name="count" value="5.0" />
         <observation name="max" value="0.0" />
@@ -1395,6 +1414,7 @@
         <observation name="variance" value="0.1304" />
       </dailyData>
       <dailyData date="4-6-2018">
+        <observation name="UNDEFINED" value="2.0" />
         <observation name="average" value="0.0" />
         <observation name="count" value="5.0" />
         <observation name="max" value="0.0" />
@@ -1454,7 +1474,7 @@
       </dailyData>
       <dailyData date="4-6-2018">
         <observation name="average" value="0.0" />
-        <observation name="count" value="5.0" />
+        <observation name="count" value="9.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -1511,11 +1531,11 @@
         <observation name="variance" value="11.306612" />
       </dailyData>
       <dailyData date="4-6-2018">
-        <observation name="average" value="8.0" />
-        <observation name="count" value="5.0" />
+        <observation name="average" value="6.0" />
+        <observation name="count" value="9.0" />
         <observation name="max" value="9.0" />
-        <observation name="min" value="7.0" />
-        <observation name="variance" value="0.294444" />
+        <observation name="min" value="3.0" />
+        <observation name="variance" value="2.613983" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:sameWords">
@@ -1574,6 +1594,7 @@
         <observation name="variance" value="0.047675" />
       </dailyData>
       <dailyData date="4-6-2018">
+        <observation name="UNDEFINED" value="2.0" />
         <observation name="average" value="0.0" />
         <observation name="count" value="5.0" />
         <observation name="max" value="0.0" />
@@ -1637,6 +1658,7 @@
         <observation name="variance" value="47482.188841" />
       </dailyData>
       <dailyData date="4-6-2018">
+        <observation name="UNDEFINED" value="2.0" />
         <observation name="average" value="0.0" />
         <observation name="count" value="5.0" />
         <observation name="max" value="0.0" />
@@ -1700,6 +1722,7 @@
         <observation name="variance" value="0.0" />
       </dailyData>
       <dailyData date="4-6-2018">
+        <observation name="UNDEFINED" value="2.0" />
         <observation name="average" value="0.0" />
         <observation name="count" value="5.0" />
         <observation name="max" value="0.0" />
@@ -1759,7 +1782,7 @@
       </dailyData>
       <dailyData date="4-6-2018">
         <observation name="average" value="1.0" />
-        <observation name="count" value="5.0" />
+        <observation name="count" value="9.0" />
         <observation name="max" value="1.0" />
         <observation name="min" value="1.0" />
         <observation name="variance" value="0.0" />
@@ -1823,7 +1846,7 @@
         <observation name="variance" value="0.0" />
       </dailyData>
       <dailyData date="4-6-2018">
-        <observation name="UNDEFINED" value="2.0" />
+        <observation name="UNDEFINED" value="4.0" />
         <observation name="average" value="-5.0" />
         <observation name="count" value="1.0" />
         <observation name="max" value="-5.0" />
@@ -1882,11 +1905,11 @@
         <observation name="variance" value="10646371.169533" />
       </dailyData>
       <dailyData date="4-6-2018">
-        <observation name="average" value="1980.2" />
-        <observation name="count" value="5.0" />
+        <observation name="average" value="1100.111111" />
+        <observation name="count" value="9.0" />
         <observation name="max" value="9901.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="5337178.054444" />
+        <observation name="variance" value="4514088.329495" />
       </dailyData>
     </factor>
     <factor id="itemPosition">
@@ -2085,8 +2108,8 @@
         <observation name="count" value="53.0" />
       </dailyData>
       <dailyData date="4-6-2018">
-        <observation name="average" value="156.0" />
-        <observation name="count" value="2.0" />
+        <observation name="average" value="118.142857" />
+        <observation name="count" value="7.0" />
       </dailyData>
     </factor>
   </component>
