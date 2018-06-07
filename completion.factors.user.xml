@@ -863,7 +863,7 @@
         <observation name="typedSelect" value="14.0" />
       </dailyData>
       <dailyData date="7-6-2018">
-        <observation name="cancelled" value="93.0" />
+        <observation name="cancelled" value="400.0" />
         <observation name="explicitSelect" value="2.0" />
         <observation name="typedSelect" value="8.0" />
       </dailyData>
@@ -929,7 +929,7 @@
         <observation name="count" value="356.0" />
       </dailyData>
       <dailyData date="7-6-2018">
-        <observation name="count" value="103.0" />
+        <observation name="count" value="410.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
