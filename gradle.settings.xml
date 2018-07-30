@@ -1,6 +1,5 @@
 <application>
   <component name="GradleSystemSettings">
     <option name="gradleVmOptions" value="-DsystemProp.https.nonProxyHosts=bfam-nexus" />
-    <option name="offlineWork" value="true" />
   </component>
 </application>
