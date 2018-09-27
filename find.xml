@@ -17,10 +17,10 @@
     <mask>*.js</mask>
     <mask>*.properties</mask>
     <mask>*.csv</mask>
-    <mask>*.gradle</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.kt</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
