@@ -1,7 +1,7 @@
 <application>
   <component name="PathMacrosImpl">
     <macro name="JIDE_LIB" value="G:/GOG_IT/ProgramFiles/prd/thirdparty" />
-    <macro name="KOTLIN_BUNDLED" value="C:\Users\SCox\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-1\183.2635.13\plugins\Kotlin\kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="C:\Users\SCox\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-1\183.2940.10\plugins\Kotlin\kotlinc" />
     <macro name="MAVEN_REPOSITORY" value="C:/Users/SCox/.m2/repository" />
     <macro name="QUICKFIXJ_HOME" value="G:/GOG_IT/ProgramFiles/prd/thirdparty/quickfixj" />
     <macro name="THIRDPARTY_HOME" value="G:/GOG_IT/ProgramFiles/prd/thirdparty" />
