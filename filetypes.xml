@@ -2,13 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="jobs" type="PLAIN_TEXT" />
       <mapping pattern=".credentials" type="PLAIN_TEXT" />
       <mapping pattern="lock" type="PLAIN_TEXT" />
+      <mapping pattern="jobs" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="vba" type="PLAIN_TEXT" />
       <mapping ext="2017-12-20" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
       <mapping ext="existing" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
