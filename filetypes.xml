@@ -5,6 +5,7 @@
       <mapping pattern=".credentials" type="PLAIN_TEXT" />
       <mapping pattern="lock" type="PLAIN_TEXT" />
       <mapping pattern="jobs" type="PLAIN_TEXT" />
+      <mapping pattern="RWFEnum_network" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="vba" type="PLAIN_TEXT" />
       <mapping ext="2017-12-20" type="PLAIN_TEXT" />
